@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4CS7l11KVz2O24f/VKg93BkwmOKyiGOqDoSrf4fAIhxmEJ+rD8mOMIrZlLOet5gG6DYJwQ2qFimlgu2/H2SWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rogerio.campos\\source\\repos\\SuperCoin\\SuperCoin\\SuperCoin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.27.0\\microsoft.identitymodel.abstractions.6.27.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.27.0\\microsoft.identitymodel.jsonwebtokens.6.27.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.identitymodel.logging\\6.27.0\\microsoft.identitymodel.logging.6.27.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.27.0\\microsoft.identitymodel.tokens.6.27.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.27.0\\system.identitymodel.tokens.jwt.6.27.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\rogerio.campos\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.cg.df.gov.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
