@@ -1,4 +1,4 @@
-﻿namespace SuperCoin.Models
+﻿namespace Wiki.Models.Usuario
 {
     public class UserModel
     {
@@ -8,5 +8,6 @@
         public string Role { get; set; }
         public string Surname { get; set; }
         public string GivenName { get; set; }
+
     }
 }

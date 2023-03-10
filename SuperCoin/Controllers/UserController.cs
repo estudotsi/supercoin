@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using SuperCoin.Models;
+using Wiki.Models;
 using System.Data;
 using System.Security.Claims;
 
-namespace SuperCoin.Controllers
+namespace Wiki.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

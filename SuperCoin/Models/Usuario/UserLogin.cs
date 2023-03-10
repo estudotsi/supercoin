@@ -1,4 +1,4 @@
-﻿namespace SuperCoin.Models
+﻿namespace Wiki.Models.Usuario
 {
     public class UserLogin
     {
